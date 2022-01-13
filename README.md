@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🧰 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blueviolet)
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blueviolet)
+
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blueviolet)
