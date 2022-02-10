@@ -1,5 +1,5 @@
 <h4>Hello there 👋</h4>
-My name is Adrian from Chicago, IL. I'm a Systems Engineer.
+My name is Adrian. I'm a Systems Engineer.
 I'm currently learning cloud and security. Come from a networking/it background.
 On my spare time I enjoy working out, video games, and anything Star Wars. 
 Follow my cloud journey and random projects I come up with.
