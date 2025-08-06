@@ -1,8 +1,5 @@
 <h4>Hello there 👋</h4>
-My name is Adrian. I'm a Systems Engineer.
-I'm currently learning cloud and security. Come from a networking/it background.
-On my spare time I enjoy working out, video games, and anything Star Wars. 
-Follow my cloud journey and random projects I come up with.
+
 
 <!--
 **Krane18/krane18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
